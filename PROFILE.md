@@ -15,3 +15,4 @@ For now I will only have one slide, but more to come in the future.
 - story telling with data
 
 I am hopeful to have the opportunity to learn and pursue more of the above in my work both at home and in the office.
+:tada:
